@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">widget</string>
+    <string-array name="Provinsi">
+        <item>Jawa Timur</item>
+        <item>Jawa Barat</item>
+        <item>Jawa Tengah</item>
+        <item>Jakarta</item>
+        <item>Jogjakarta</item>
+        <item>Jambi</item>
+        <item>Aceh</item>
+        <item>Kalimantan Barat</item>
+        <item>Kalimantan Timur</item>
+        <item>Kalimantan Selatan</item>
+        <item>Sumatera Selatan</item>
+        <item>Sumatera utara</item>
+        <item>Sumatera Barat</item>
+        <item>Bengkulu</item>
+        <item>Riau</item>
+        <item>Jambi</item>
+        <item>Maluku</item>
+        <item>Bali</item>
+        <item>Papua</item>
+    </string-array>
+</resources>
